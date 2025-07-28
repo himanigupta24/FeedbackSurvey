@@ -53,7 +53,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/feedback-service.git
+   git clone https://github.com/himanigupta24/FeedbackSurvey
    cd feedback-service
    ```
 
@@ -180,7 +180,7 @@ Type definitions are organized in the `types/` directory:
 ### Docker
 ```bash
 # Build the image
-docker build -t feedback-service .
+docker build -t FeedbackSurvey .
 
 # Run the container
 docker run -p 3000:3000 feedback-service
@@ -216,10 +216,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-- 📧 **Email**: support@feedbackservice.com
-- 💬 **Discord**: [Join our community](https://discord.gg/feedback-service)
+- 📧 **Email**: himanigupta2324@gmail.com
 - 📖 **Documentation**: [View full docs](https://docs.feedbackservice.com)
-- 🐛 **Issues**: [Report bugs](https://github.com/yourusername/feedback-service/issues)
+- 🐛 **Issues**: [Report bugs](https://github.com/himanigupta24/FeedbackSurvey)
 
 ## 🙏 Acknowledgments
 
@@ -233,7 +232,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   <p>Made with ❤️ by the Feedback Service Team</p>
   <p>
-    <a href="https://github.com/yourusername/feedback-service">⭐ Star us on GitHub</a> |
-    <a href="https://twitter.com/feedbackservice">🐦 Follow on Twitter</a>
+    <a href="https://github.com/himanigupta24/FeedbackSurvey">⭐ Star us on GitHub</a> |
   </p>
 </div>
